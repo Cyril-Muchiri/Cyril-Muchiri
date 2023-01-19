@@ -1,7 +1,6 @@
 - 👋 Hi, I’m  Cyril-Muchiri
 - 👀 I’m interested in creating Tech solutions that impact society and modern day business productivity.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Javav Projects, mobile app projects and web deevelopment projects.
+- 💞️ I’m looking to collaborate on Java Projects, mobile app projects and web deevelopment projects.
 - 📫 Reach me on LinkendIn @ Cyril Muchiri or personal email - cyrilmuchiri11@gmail.com
 
 <!---
