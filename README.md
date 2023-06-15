@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on Java Projects, mobile app projects and web development projects.
 - 📫 Reach me on LinkendIn @ Cyril Muchiri or personal email - cyrilmuchiri11@gmail.com
 - computer Science graduate
+- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyril-Muchiri&theme=blue-green)
 
 
 <!---
