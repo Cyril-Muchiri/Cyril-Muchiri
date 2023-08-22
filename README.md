@@ -1,4 +1,4 @@
-<p>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+am+Cyril+Muchiri;)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+am+Cyril+Muchiri;)](https://git.io/typing-svg)
 <h3 align="center">Full stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyril-muchiri" alt="cyril-muchiri" /></a> </p>
