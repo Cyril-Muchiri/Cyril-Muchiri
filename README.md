@@ -1,4 +1,4 @@
-<div display="flex" ><a href="https://git.io/typing-svg"><img width="20px" height="20px" src="./wave.gif" alt=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=450&lines=Hi+am+Cyril+Muchiri;I+am+a+junior+full+stack+engineer" alt="Typing SVG" /></a></div>
+<div display="flex" flex-direction ="row"><img width="20px" height="20px" src="./wave.gif" alt=""><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=450&lines=Hi+am+Cyril+Muchiri;I+am+a+junior+full+stack+engineer" alt="Typing SVG" /></a></div>
 <img src="./dino.gif" alt="">
 
 <h3 align="left">Connect with me:</h3>
