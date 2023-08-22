@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; padding: 20px;">
+<div >
   <img width="60px" height="60px" src="./wave.gif" alt="">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=475&lines=Hi+am+Cyril+Muchiri;I+am+a+passionate+full+stack+engineer;WELCOME ABOARD!!" alt="Typing SVG" />
