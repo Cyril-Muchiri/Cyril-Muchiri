@@ -13,7 +13,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyril-muchiri" alt="cyril-muchiri" /></a> </p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cyril-muchiri)](https://github.com/cyrilmuchiri/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cyril-muchiri&theme=dark)](https://github.com/cyrilmuchiri/github-readme-stats)
+
 
 
 ## 😂 Here is a random joke that'll make you laugh!
