@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyril-muchiri" alt="cyril-muchiri" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyril-muchiri&show_icons=true&locale=en&layout=compact" alt="cyril-muchiri" /></p>
+<p><img align="center" background-color="grey" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyril-muchiri&show_icons=true&locale=en&layout=compact" alt="cyril-muchiri" /></p>
 
 
 ## 😂 Here is a random joke that'll make you laugh!
